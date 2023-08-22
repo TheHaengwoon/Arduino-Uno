@@ -7,8 +7,9 @@
 전달받으면 진동 모듈과 소리 센서가 동시에 10초 동안 작동한다. 소리 센서에서는 0.5초 간격으로 '삐-' 소리를 출력한다.
 10초 이후에 디바이스는 작동하지 않으며, 신호가 다시 전달되면 앞선 동작을 반복한다.
 
-![image](https://github.com/simvroom/Arduino/assets/129640503/e61caeb3-50e0-49e1-beea-e14ef84ff101)
-![image](https://github.com/simvroom/Arduino/assets/129640503/e3ce9794-45cd-40b7-b023-edd5b2e858c5)
+![image](https://github.com/TheHaengwoon/Arduino-Uno/assets/129640503/8e5cdeeb-39a0-4def-9e55-f0f2386257c5)
+![image](https://github.com/TheHaengwoon/Arduino-Uno/assets/129640503/918955bc-9dd8-4e06-9949-74e4d53995ee)
+
 
 오류로 인한 신호전달로 디바이스가 작동했을 경우 운전에 오히려 방해가 될 수 있다. 
 이를 예방하기 위하여, 신호를 수동으로 제어(OFF)할 수 있는 버튼을 추가할 예정이다.
